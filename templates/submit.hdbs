@@ -1,0 +1,35 @@
+<p>Your list of approvers:</p>
+
+<table width="50%">
+  <tr>
+    <td class="future_approver">Joseph Frascati</td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="future_approver">Mindy Lieberman</td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="future_approver">Alan Black</td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="future_approver">Mikkel Svane</td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="future_approver">John Doe</td>
+  </tr>
+</table>
+
+<br />
+
+<p><a href="blah">Click here</a> to Submit this ticket for approval</p>

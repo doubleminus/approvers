@@ -1,0 +1,40 @@
+<p>Approvals (3 out of 5)</p>
+<br />
+<table width="50%">
+  <tr>
+    <td class="approved">Joseph Frascati</td>
+    <td class="total"><img src="http://i.imgur.com/Ma3ZGDC.png" alt="Approved" height="20" width="20"/></td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="approved">Mindy Lieberman</td>
+    <td class="total"><img src="http://i.imgur.com/Ma3ZGDC.png" alt="Approved" height="20" width="20"/></td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="approved">Alan Black</td>
+    <td class="total"><img src="http://i.imgur.com/Ma3ZGDC.png" alt="Approved" height="20" width="20"/></td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="pending_approver">Mikkel Svane</td>
+    <td class="total"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Icon-round-Question_mark.jpg" alt="Pending" height="20" width="20"></td>
+  </tr>
+  <tr>
+    <td class="arrow">&darr;</td>
+  </tr>
+  <tr>
+    <td class="future_approver">John Doe</td>
+    <td class="total"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Icon-round-Question_mark.jpg" alt="Pending" height="20" width="20"></td>
+  </tr>
+</table>
+
+<br />
+
+<button type="button">Approve</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">Reject</button> 
