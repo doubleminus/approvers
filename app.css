@@ -1,5 +1,4 @@
 .approved {
-    text-align: left;
     color: green;
 }
 
@@ -16,7 +15,6 @@
 }
 
 .total {
-    text-align: left;
     font-weight: bold;
     color: #363;
 }
@@ -24,12 +22,19 @@
 .arrow {
     font-weight: bold;
     font-size: 2.0em;
-    padding-left: 1.8em;
-    padding-right: 0em;
-    padding-top: 0em;
-    padding-bottom: 0em;
 }
 
-td {
-   padding: 10px; 
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    margin: 0 auto;
+}
+
+button {
+    text-align: center;
+    margin: 0 auto;
 }

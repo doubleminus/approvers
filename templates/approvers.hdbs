@@ -35,6 +35,8 @@
   </tr>
 </table>
 
-<br />
+<br/ ><br/ >
 
-<button type="button">Approve</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">Reject</button> 
+<p>
+  <button type="button">Approve</button>&nbsp;&nbsp;&nbsp;&nbsp;<button type="button">Reject</button>
+</p>
