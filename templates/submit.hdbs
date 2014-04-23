@@ -1,8 +1,14 @@
 <p>Your list of approvers:</p>
 
+<br />
+
+
+
+<br />
+
 <table width="50%">
   <tr>
-    <td class="future_approver">Joseph Frascati</td>
+    <td class="future_approver">{{user.user_fields.approvers}}</td>
   </tr>
   <tr>
     <td class="arrow">&darr;</td>
@@ -32,4 +38,4 @@
 
 <br />
 
-<p><a href="blah">Click here</a> to Submit this ticket for approval</p>
+<p><a href="blah">Click here</a> to submit this ticket for approval.</p>
