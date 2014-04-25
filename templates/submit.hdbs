@@ -1,14 +1,11 @@
 <p>Your list of approvers:</p>
 
-<br />
-
-
-
-<br />
-
 <table width="50%">
   <tr>
-    <td class="future_approver">{{user.user_fields.approvers}}</td>
+    <td class="future_approver">{{#each results}}
+                                  {{@index}}: {{this.name}}
+                                {{/each}}
+</td>
   </tr>
   <tr>
     <td class="arrow">&darr;</td>
