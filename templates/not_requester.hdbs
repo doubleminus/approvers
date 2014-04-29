@@ -4,7 +4,7 @@
 
 <table width="50%">
   <tr>
-    <td class="future_approver">{{results.[0].organization_fields.approver_1}}</td> 
+    <td class="future_approver"> {{results.[0].organization_fields.approver_1}} </td> 
   </tr>
   <tr>
     <td class="arrow">&darr;</td>
@@ -34,4 +34,4 @@
 
 <br />
 
-<p><a href="blah">Click here</a> to submit this ticket for approval.</p>
+<p>You must be this ticket's Requester to submit it for approval.</p>
